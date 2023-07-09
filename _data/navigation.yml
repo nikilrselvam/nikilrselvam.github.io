@@ -3,10 +3,18 @@ main:
 
   - title: "About"
     url: /
-    
+
   - title: "Publications"
     url: /publications/
 
   - title: "Awards"
     url: /awards/
-  
+
+  - title: "Leadership & Service"
+    url: /service/
+
+  - title: "Teaching"
+    url: /teaching/
+
+  - title: "Industry Experience"
+    url: /work/
