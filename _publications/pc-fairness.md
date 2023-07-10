@@ -2,7 +2,7 @@
 title: "Certifying Fairness of Probabilistic Circuits"
 collection: publications
 permalink: /publication/pc-fairness
-excerpt: '**Nikil Roashan Selvam**, Guy Van den Broeck, and YooJung Choi'
+excerpt: 'Guy Van den Broeck, and YooJung Choi'
 date: 2023-01-01
 venue: 'Proceedings of the 37th AAAI Conference on Artificial Intelligence'
 paperurl: 'https://nikilrselvam.github.io/files/SelvamAAAI23.pdf'

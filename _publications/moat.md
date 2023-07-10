@@ -2,7 +2,7 @@
 title: "Mixtures of All Trees"
 collection: publications
 permalink: /publication/moat
-excerpt: '**Nikil Roashan Selvam**, Honghua Zhang, and Guy Van den Broeck'
+excerpt: 'Honghua Zhang, and Guy Van den Broeck'
 date: 2023-03-01
 venue: 'Proceedings of the 25th International Conference on Artificial Intelligence and Statistics (AISTATS)'
 paperurl: 'https://nikilrselvam.github.io/files/SelvamAISTATS23.pdf'

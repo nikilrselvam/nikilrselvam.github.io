@@ -2,7 +2,7 @@
 title: "The Tail Wagging the Dog: Dataset Construction Biases of Social Bias Benchmarks"
 collection: publications
 permalink: /publication/dataset-bias
-excerpt: '**Nikil Roashan Selvam**, Sunipa Dev, Daniel Khashabi, Tushar Khot, Kai-Wei Chang'
+excerpt: 'Sunipa Dev, Daniel Khashabi, Tushar Khot, Kai-Wei Chang'
 venue: 'Proceedings of the 61th Annual Meeting of the Association for Computational Linguistics (ACL)'
 date: 2023-06-01
 paperurl: 'https://nikilrselvam.github.io/files/SelvamACL23.pdf'
