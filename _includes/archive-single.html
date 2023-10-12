@@ -53,6 +53,7 @@
       <p>Recommended citation: {{ post.citation }} </p>
     {% elsif post.paperurl %}
       <p>
+      {% if post.badge %} <p style="display: inline;  background-color: #314d96; border-radius: 10px; padding: 7px; color: white"> &#x1F3C6; <strong> {{ post.badge }} </strong> &#x1F3C6; </p>  <br> <br> {% endif %}
       <strong> Nikil Roashan Selvam, </strong>{{ post.excerpt | markdownify | strip_newlines | strip_html }} <br>
       In <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} <br>
       <a href=" {{ post.paperurl }} ">PDF</a>

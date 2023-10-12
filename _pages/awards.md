@@ -3,6 +3,7 @@ permalink: /awards/
 title: "Awards"
 author_profile: true
 ---
+* Won Outstanding Paper Award at ACL 2023.
 * Named 2023 Schmidt Futures Quad Fellowship Finalist (3200+ applicants internationally).
 * Awarded 2022 UCLA Engineering Achievement Award in Student Welfare.
 * Named Google CS Research Mentorship Program Scholar 2022.
